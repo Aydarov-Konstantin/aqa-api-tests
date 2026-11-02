@@ -1,0 +1,12 @@
+/target/
+/.allure/
+/allure-results/
+/allure-report/
+/tmp/
+/output/
+/dist/
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
